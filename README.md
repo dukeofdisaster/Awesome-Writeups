@@ -10,7 +10,7 @@ A collection of write-ups on topics such as: vulnerabilities, malware analysis, 
 ## Legend
 Symbol | Meaning
 ------ | -------
-'*'    | High quality writeup: detailed explanation of relevant materials and how-to
+'#'       | High quality writeup: detailed explanation of relevant materials and how-to
 
 ## Malware Analysis
 Name | Description
