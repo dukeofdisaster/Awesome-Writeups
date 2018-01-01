@@ -7,6 +7,11 @@
 # Awesome-Writeups
 A collection of write-ups on topics such as: vulnerabilities, malware analysis, challenges etc
 
+## Legend
+Symbol | Meaning
+------ | -------
+*      | High quality writeup: detailed explanation of relevant materials and how-to
+
 ## Malware Analysis
 Name | Description
 ---- | ----
@@ -15,5 +20,5 @@ Name | Description
 ## Vulnerabilities
 Name | Description
 ---- | ----
-
+[IOHIDeous, Dec 2017](https://siguza.github.io/IOHIDeous/) | a quality writeup on a vulnerability that yields kernal r/w access
 
